@@ -32,3 +32,5 @@
 </ul>
 <br>
 <p><strong>The course is free and available on <a href='https://codingwithmitch.com/courses/dagger22-android/' target='_blank'>codingwithmitch.com</a></strong></p>
+
+<p><strong>You can find in youtube: <a href='https://www.youtube.com/watch?v=3qZh6Fyrz-k&list=PLgCYzUzKIBE8AOAspC3DHoBNZIBHbIOsC' target='_blank'>youtube.com</a></strong></p>
